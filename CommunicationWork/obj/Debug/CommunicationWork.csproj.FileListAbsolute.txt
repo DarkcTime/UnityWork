@@ -21,6 +21,11 @@ C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ListUs
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ProfileUser.g.cs
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ProfileUser.baml
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\App.baml
+<<<<<<< HEAD
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CommunicationWork.csprojAssemblyReference.cache
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CreateAccount.g.cs
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CreateAccount.baml
+=======
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\CommunicationWork.csprojAssemblyReference.cache
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\Auth.g.cs
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\ListUsers.g.cs
@@ -45,3 +50,4 @@ C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\Com
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\CommunicationWork.Properties.Resources.resources
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\CommunicationWork.csproj.GenerateResource.cache
 C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\CommunicationWork.csproj.CoreCompileInputs.cache
+>>>>>>> e82b4f683dcd4d8c9314d4c110fd22ab46b7a0ff

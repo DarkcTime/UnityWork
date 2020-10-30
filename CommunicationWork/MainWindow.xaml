@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CommunicationWork"
         mc:Ignorable="d"
-        Title="" MinHeight="450" Height="450" Width="400" >
+        Title="" MinHeight="450" Height="450" Width="800" >
     <Frame Name="MainFrame" NavigationUIVisibility="Hidden">
         
     </Frame>

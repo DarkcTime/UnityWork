@@ -16,22 +16,6 @@ namespace CommunicationWork
 
     class SharedClass
     {
-        //public static SetTitleDelegate setTitle{ get; set; }
-
-        //public static SetSizeDelegate setSize { get; set; }
-
-        //public static void SetSize(Page page)
-        //{
-        //    setPage?.Invoke(page);
-        //}
-
-        //public static void SetTitle(string title)
-        //{
-
-        //}
-
-
-
 
         public static void SetFrame(Frame frame, Page page)
         {
