@@ -10,30 +10,25 @@ using System.Windows.Navigation;
 namespace CommunicationWork
 {
 
-    public void testFun()
-    {
-        return;
-    }
-
     public delegate void SetTitleDelegate(string title);
 
     public delegate void SetSizeDelegate(int height, int width);
 
     class SharedClass
     {
-        public static SetTitleDelegate setTitle{ get; set; }
+        //public static SetTitleDelegate setTitle{ get; set; }
 
-        public static SetSizeDelegate setSize { get; set; }
+        //public static SetSizeDelegate setSize { get; set; }
 
-        public static void SetSize(Page page)
-        {
-            setPage?.Invoke(page);
-        }
+        //public static void SetSize(Page page)
+        //{
+        //    setPage?.Invoke(page);
+        //}
 
-        public static void SetTitle(string title)
-        {
+        //public static void SetTitle(string title)
+        //{
 
-        }
+        //}
 
 
 
