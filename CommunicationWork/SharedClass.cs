@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,11 @@ using System.Windows.Navigation;
 
 namespace CommunicationWork
 {
+
+    public void testFun()
+    {
+        return;
+    }
 
     public delegate void SetTitleDelegate(string title);
 
