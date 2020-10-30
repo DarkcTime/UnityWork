@@ -25,5 +25,11 @@ namespace CommunicationWork
             InitializeComponent();
             SharedClass.SetFrame(this.ContentFrame, new ListUsers());
         }
+
+
+        private void UserAccount_Click(object sender, RoutedEventArgs e)
+        {
+            PopupUser.IsOpen = true;
+        }
     }
 }

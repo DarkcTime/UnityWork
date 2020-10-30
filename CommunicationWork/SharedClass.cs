@@ -10,15 +10,13 @@ using System.Windows.Navigation;
 namespace CommunicationWork
 {
 
-   
-
     public delegate void SetTitleDelegate(string title);
 
     public delegate void SetSizeDelegate(int height, int width);
 
     class SharedClass
     {
-        
+
         public static void SetFrame(Frame frame, Page page)
         {
             frame.Content = page;
