@@ -16,21 +16,21 @@ using System.Windows.Shapes;
 namespace CommunicationWork
 {
     /// <summary>
-    /// Interaction logic for Auth.xaml
+    /// Interaction logic for CreateAccount.xaml
     /// </summary>
-    public partial class Auth : Page
+    public partial class CreateAccount : Page
     {
-        public Auth()
+        public CreateAccount()
         {
             InitializeComponent();
         }
 
-        private void AuthClick(object sender, RoutedEventArgs e)
+        private void CreateUserClick(object sender, RoutedEventArgs e)
         {
             SharedClass.OpenNewPage(this, new MainMenu());
         }
 
-        private void CreateAccountClick(object sender, RoutedEventArgs e)
+        private void BackClick(object sender, RoutedEventArgs e)
         {
             SharedClass.OpenNewPage(this, new CreateAccount());
         }

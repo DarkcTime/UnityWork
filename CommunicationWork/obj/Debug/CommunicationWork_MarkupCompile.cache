@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\obj\Debug\
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\
 CommunicationWork
 none
 false
 DEBUG;TRACE
-C:\Users\Drenuv\source\repos\testClone\UnityWork\CommunicationWork\App.xaml
-5-822206108
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\App.xaml
+6-507651238
 
-14-829339680
+11-715532608
 13-1505183044
-Auth.xaml;ListUsers.xaml;MainMenu.xaml;MainWindow.xaml;ProfileUser.xaml;
+Auth.xaml;CreateAccount.xaml;ListUsers.xaml;MainMenu.xaml;MainWindow.xaml;ProfileUser.xaml;
 
-True
+False
 

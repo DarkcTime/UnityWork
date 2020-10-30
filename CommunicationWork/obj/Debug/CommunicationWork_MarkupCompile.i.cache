@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\App.xaml
-5-822206108
+6-507651238
 
-111741065667
+121727728152
 13-1505183044
-Auth.xaml;ListUsers.xaml;MainMenu.xaml;MainWindow.xaml;ProfileUser.xaml;
+Auth.xaml;CreateAccount.xaml;ListUsers.xaml;MainMenu.xaml;MainWindow.xaml;ProfileUser.xaml;
 
-False
+True
 

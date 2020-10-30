@@ -21,3 +21,6 @@ C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ListUs
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ProfileUser.g.cs
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\ProfileUser.baml
 C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\App.baml
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CommunicationWork.csprojAssemblyReference.cache
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CreateAccount.g.cs
+C:\Users\vlad_\source\repos\CommunicationWork\CommunicationWork\obj\Debug\CreateAccount.baml
