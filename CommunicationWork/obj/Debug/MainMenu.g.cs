@@ -89,7 +89,7 @@ namespace CommunicationWork {
             case 1:
             
             #line 17 "..\..\MainMenu.xaml"
-            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.UserAccount_Click);
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.User_Click);
             
             #line default
             #line hidden

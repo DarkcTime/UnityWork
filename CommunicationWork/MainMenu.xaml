@@ -14,12 +14,12 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Grid Background="Blue">
-            <Button HorizontalAlignment="Right" VerticalAlignment="Top" Click="UserAccount_Click" Content="User"/>
+            <Button HorizontalAlignment="Right" VerticalAlignment="Top" Click="User_Click" Content="User"/>
             <Popup StaysOpen="False" Name="PopupUser" Placement="Mouse">
                 <Grid>
                     <StackPanel>
-                        <Button Content="Изменить"/>
-                        <Button Content="выйти"/>
+                        <Button Content="Изменить" Click="UserAccount_Click"/>
+                        <Button Content="выйти" Click="UserLogOut_Click"/>
                     </StackPanel>
                 </Grid>
             </Popup>
